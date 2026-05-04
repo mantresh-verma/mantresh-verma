@@ -53,11 +53,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mantresh-verma&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/mantresh-verma?style=flat-square&logo=github&label=FOLLOWERS&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/mantresh-verma?style=flat-square&logo=github&label=STARS&color=blue" alt="Stars"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mantresh-verma&show_icons=true&theme=dark&count_private=true" height="150" alt="Overall Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantresh-verma&layout=compact&theme=dark" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-gaiuc91zw-mantreshverma4-1867s-projects.vercel.app/api?username=mantresh-verma&show_icons=true&theme=dark&count_private=true&hide_border=true" height="150" alt="Overall Stats" />
+  <img src="https://github-readme-stats-gaiuc91zw-mantreshverma4-1867s-projects.vercel.app/api/top-langs/?username=mantresh-verma&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
