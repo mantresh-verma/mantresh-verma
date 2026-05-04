@@ -57,14 +57,21 @@
   <img src="https://img.shields.io/github/stars/mantresh-verma?style=flat-square&logo=github&label=STARS&color=blue" alt="Stars"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-gaiuc91zw-mantreshverma4-1867s-projects.vercel.app/api?username=mantresh-verma&show_icons=true&theme=dark&count_private=true&hide_border=true" height="150" alt="Overall Stats" />
-  <img src="https://github-readme-stats-gaiuc91zw-mantreshverma4-1867s-projects.vercel.app/api/top-langs/?username=mantresh-verma&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mantresh-verma&theme=tokyonight&hide_border=true" height="150" alt="Contribution Streak" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://mantresh-verma-stats.vercel.app/api?username=mantresh-verma&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" alt="Overall Stats" />
+      </td>
+      <td align="center">
+        <img src="https://mantresh-verma-stats.vercel.app/api/top-langs/?username=mantresh-verma&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mantresh-verma&theme=tokyonight&hide_border=true" height="150" alt="Contribution Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
